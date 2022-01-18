@@ -20,7 +20,7 @@ void main(){
     printf("Ievadiet x vertibu(ar vismaz vienu ciparu aiz komata): \n");
     scanf("%lf",&x);
     y = j1(x);
-    printf("bessj(%.2f)=%.2f\n",x,y);
+    printf("bessj1(x)(%.2f)=%.2f\n",x,y);
     
     b = (pow(-1,k)*pow(x,2*k))/(fact(k)*fact(k+1)*pow(x,2*k));
     a = (x/2)*b;
