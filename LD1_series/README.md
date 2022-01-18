@@ -6,7 +6,7 @@ Funkcija: bessj1(x)
 ## Kods
 
 ```bash
-  #include <stdio.h>
+#include <stdio.h>
 #include<math.h>
 void main(){
     double x,y,a,b,S;
