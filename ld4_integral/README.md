@@ -50,9 +50,9 @@ void main() {
             sk4=(b-(a))*(1/6)*(j1(a)+4*j1(0.5*(a+(b)))+j1(b));
         }
 
-    printf("Integrals taisnsturu metodei: %f",sk2);
-    printf("\nIntegrals trapecu metodei: %f", sk3);
-    printf("\nIntegrals simpsona metodei: %f", sk4);
+    printf("Intervals taisnsturu metodei: %f",sk2);
+    printf("\nIntervals trapeču metodei: %f", sk3);
+    printf("\nIntervals simpsona metodei: %f", sk4);
 }
 ```
 ## Piemērs
