@@ -1,5 +1,5 @@
 
-# Laboratorijas darbs - Teilora rindas.
+# Laboratorijas darbs- skaitliskā integrēšana.
 
 Funkcija: bessj1(x)
 
