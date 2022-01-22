@@ -1,5 +1,5 @@
 
-# Laboratorijas darbs
+# Laboratorijas darbs - dihotomijas metode.
 
 ## Kods
 
