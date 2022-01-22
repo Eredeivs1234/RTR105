@@ -57,4 +57,6 @@ void main() {
 ```
 ## Piemērs
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Console](https://github.com/Eredeivs1234/RTR105/blob/main/ld4_integral/console.png?raw=true)
+
+![Rezultāts](https://github.com/Eredeivs1234/RTR105/blob/main/ld4_integral/rezulta%CC%84ts.png?raw=true)
