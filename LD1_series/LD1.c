@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<math.h>
 void main(){
-    double x,y,a,b,S;
+    double x,y,a,b,s;
     int k=0;
 
     long long fact(long x) {
@@ -16,19 +16,19 @@ void main(){
     
     b = (pow(-1,k)*pow(x,2*k))/(fact(k)*fact(k+1)*pow(x,2*k));
     a = (x/2)*b;
-    S = a;
+    s = a;
     
     while(k<1000){
         k++;
         a = a * x/k;
-        S = S + a;
+        s = s + a;
         
         if (k == 499){
-            printf("a499 - %e\tS499 - %.2f\n",a,S);
+            printf("a499 - %e\tS499 - %.2f\n",a,s);
             
         }
         if (k == 1000){
-        printf("a1000 - %e\tS1000 - %.2f\n",a,S);
+        printf("a1000 - %e\tS1000 - %.2f\n",a,s);
         
         }
     }
