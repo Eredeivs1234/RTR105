@@ -38,3 +38,5 @@ void main() {
    }
 }
 ```
+
+![Rezultāts](https://github.com/Eredeivs1234/RTR105/blob/main/ld3_derivative/rezultats.png?raw=true)
