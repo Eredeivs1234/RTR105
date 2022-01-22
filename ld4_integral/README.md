@@ -50,9 +50,9 @@ void main() {
             sk4=(b-(a))*(1/6)*(j1(a)+4*j1(0.5*(a+(b)))+j1(b));
         }
 
-    printf("Integrala vertiba pec taisnsturu metodes: %f\n",sk2);
-    printf("Integrala vertiba pec trapecu metodes: %f\n", sk3);
-    printf("Integrala vertiba pec Simpsona metodes: %f\n", sk4);
+    printf("Integrals taisnsturu metodei: %f",sk2);
+    printf("\nIntegrals trapecu metodei: %f", sk3);
+    printf("\nIntegrals simpsona metodei: %f", sk4);
 }
 ```
 ## Piemērs
