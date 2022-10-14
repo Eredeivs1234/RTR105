@@ -47,7 +47,7 @@ void main() {
         sk1 = sk4;
         sk4 = 0;
         for(k=0;k<n;k++)
-            sk4=(b-(a))*(1/6)*(j1(a)+4*j1(0.5*(a+(b)))+j1(b));
+            sk4=(b-(a))*(1/6)*j1(a)+4*j1(0.5*(a+(b)))+j1(b);
         }
 
     printf("Intervals taisnsturu metodei: %f",sk2);
